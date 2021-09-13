@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: '首页'
+				title: '个人中心'
 			}
 		},
 		onLoad() {
