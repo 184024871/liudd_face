@@ -4,7 +4,8 @@
 			"path": "pages/home/home",
 			"style": {
 				"navigationBarTitleText": "",
-				"navigationBarBackgroundColor": "#FFFFFF"
+				"navigationBarBackgroundColor": "#FFFFFF",
+				"enablePullDownRefresh": true
 			}
 		},
 		{
@@ -33,8 +34,7 @@
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
 		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8",
-		"enablePullDownRefresh": true
+		"backgroundColor": "#F8F8F8"
 	},
     "tabBar": {
     	"color": "#212121",
