@@ -3,7 +3,6 @@
 		{
 			"path": "pages/home/home",
 			"style": {
-				"navigationBarTitleText": "",
 				"navigationBarBackgroundColor": "#FFFFFF",
 				"enablePullDownRefresh": true
 			}
@@ -11,28 +10,24 @@
 		{
 			"path" : "pages/submit/submit",
 			"style" : {
-				"navigationBarTitleText": "",
 				"navigationBarBackgroundColor": "#FFFFFF"
 			}
 		},
 		{
 			"path" : "pages/submitrecord/record",
 			"style" : {
-				"navigationBarTitleText": "",
 				"navigationBarBackgroundColor": "#FFFFFF"
 			}
 		},
 		{
 			"path" : "pages/mine/mine",
 			"style" : {
-				"navigationBarTitleText": "",
 				"navigationBarBackgroundColor": "#FFFFFF"
 			}
 		}
 	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
-		"navigationBarTitleText": "uni-app",
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
 	},

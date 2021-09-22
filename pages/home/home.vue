@@ -8,7 +8,6 @@
 		        <uni-th align="center">马桶型号</uni-th>
 				<uni-td>MT1001</uni-td>
 		    </uni-tr>
-		    <!-- 表格数据行 -->
 		    <uni-tr>
 		        <uni-th align="center">安装时间</uni-th>
 		        <uni-td>2021年09月17日</uni-td>
